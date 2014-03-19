@@ -1,0 +1,13 @@
+
+.featurette-heading .muted{
+color: #4f8d9a;
+}
+
+.featurette .featurette-image{
+width:256px;
+height:256px;
+}
+
+.row-fluid .thumbnail{
+width:200px;
+}

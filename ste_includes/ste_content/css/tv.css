@@ -1,0 +1,36 @@
+body {
+margin:0px 30px 30px 30px;
+background-color: #e9eaea;
+}
+
+aside {  
+        display: table-cell;  
+        width: 300px;  
+	} 
+	
+div#tv {
+	margin: auto;
+	width: 650px;
+}
+
+div#console {
+	position: relative;
+	background: url(../img/vid_frame.png) no-repeat top left ;
+	background-size: 800px 650px;
+	width: 800px;
+	height: 650px;
+	top: 0px;
+	left: 100px;
+}
+
+/* video */
+div#videoDiv {
+	position: relative;
+	top: 60px;
+	left: -10px;
+}
+video {
+	background-color: black;
+	width: 500px;
+	height: 400px;
+}

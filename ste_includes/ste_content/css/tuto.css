@@ -1,0 +1,314 @@
+
+body {
+margin: 0 auto;
+background-color: #dfdcdd;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+.all_content{
+margin: 0 auto;
+width:100%;
+min-width: 900px;
+overflow: hidden;
+}
+
+.content{
+float: left;
+margin-top: 110px;
+width:82%;
+min-width: 700px;
+}
+
+
+.shareBar{
+float: right;
+border: 1px solid #333131;
+width: 26%;
+min-width: 300px;
+height:100px;
+margin-top: -967px;
+left: 885px;
+background-color:#EBEBEB;
+}
+
+.all_content .shareBar .shareBarIco{
+margin-top: 30px;
+margin-bottom: 10px;
+}
+
+.tab-content .tab-pane .subDiv{
+border: 1px solid #333131;
+background-color: #d7dde3;
+margin-top:0px;
+height:25px;
+}
+
+.tab-content .tab-pane .tab_pane_border{
+border: 1px solid #696d71;
+height:190px;
+}
+
+.subscribeBar .tab-content .tab-pane .tab_pane_text{
+margin-top:10px;
+color:#9d442f;
+}
+
+.subscribeBar .tab-content .tab-pane .rssBtn .btn{
+margin-top:10px;
+margin-left:90px;
+color:#36584c;
+}
+
+.subscribeBar .tab-content .tab-pane .btn{
+margin-top:-10px;
+color:#36584c;
+}
+
+.icoSubDiv{
+width: 16px;
+height: 16px;
+}
+
+.icoFanDiv{
+width: 25px;
+height: 25px;
+}
+
+.all_content .fanBar{
+float: right;
+border: 1px solid #333131;
+width: 26%;
+min-width: 300px;
+height:250px;
+margin-top: -830px;
+left:885px;
+background-color:#EBEBEB;
+}
+
+.all_content .subscribeBar{
+float: right;
+border: 1px solid #333131;
+width: 26%;
+min-width: 300px;
+height:250px;
+margin-top: -500px;
+left:885px;
+background-color:#EBEBEB;
+}
+
+.s{
+margin-left:70px;
+}
+.t{
+margin-left:100px;
+}
+
+.feed{
+position:absolute;
+margin-top: 8px;
+margin-left: 800px;
+width: 32px;
+height:32px;
+}
+
+.footer{
+margin-top:15px;
+}
+
+.footer .footer_text{
+margin-bottom:10px;
+color:#d7dee3;
+}
+  
+.icon_forum{
+margin-top: 6px;
+margin-left: 10px;
+}
+
+
+
+.navbar-wrapper2 {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+    width:100%;
+      margin-top: 45px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+    .navbar-wrapper2 .container2{
+  width:100%;
+  }
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Special class on .container surrounding .navbar, used for positioning it into place. */
+    .navbar-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+    width:100%;
+      margin-top: 0px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+    .navbar-wrapper .container{
+  width:100%;
+  }
+
+    /* Remove border and change up box shadow for more contrast */
+    .navbar .navbar-inner {
+      border: 0;
+      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+    }
+
+    /* Navbar links: increase padding for taller navbar */
+    .navbar .nav > li > a {
+      padding: 15px 20px;
+    }
+
+    /* Offset the responsive button for proper vertical alignment */
+    .navbar .btn-navbar {
+      margin-top: 10px;
+    }
+
+
+
+    /* MARKETING CONTENT
+    -------------------------------------------------- */
+
+    /* Center align the text within the three columns below the carousel */
+    .marketing .span4 {
+      text-align: center;
+    }
+    .marketing h2 {
+      font-weight: normal;
+    }
+    .marketing .span4 p {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+
+    /* Featurettes
+    ------------------------- */
+
+    .featurette-divider {
+      margin: 80px 0; /* Space out the Bootstrap <hr> more */
+    }
+    .featurette {
+      padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
+      overflow: hidden; /* Vertically center images part 2: clear their floats. */
+    }
+    .featurette-image {
+      margin-top: -120px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+    }
+
+    /* Give some space on the sides of the floated elements so text doesn't run right into it. */
+    .featurette-image.pull-left {
+      margin-right: 40px;
+    }
+    .featurette-image.pull-right {
+      margin-left: 40px;
+    }
+
+    /* Thin out the marketing headings */
+    .featurette-heading {
+      font-size: 50px;
+      font-weight: 300;
+      line-height: 1;
+      letter-spacing: -1px;
+    }
+
+
+
+    /* RESPONSIVE CSS */
+    /*-------------------------------------------------- */
+
+    @media screen and (max-width: 980px){
+  
+
+  
+
+      .navbar-wrapper.container {
+        margin-bottom: 0;
+        width: auto;
+      }
+      .navbar-inner {
+        border-radius: 0;
+        margin: -20px 0;
+      }
+
+      .carousel .item {
+        height: 500px;
+      }
+      .carousel img {
+        width: auto;
+        height: 500px;
+      }
+
+      .featurette {
+        height: auto;
+        padding: 0;
+      }
+      .featurette-image.pull-left,
+      .featurette-image.pull-right {
+        display: block;
+        float: none;
+        max-width: 40%;
+        margin: 0 auto 20px;
+      }
+    }
+
+
+    @media (max-width: 767px) {
+
+      .navbar-inner {
+        margin: -20px;
+      }
+
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
+
+      }
+      .carousel .item {
+        height: 300px;
+      }
+      .carousel img {
+        height: 300px;
+      }
+      .carousel-caption {
+        width: 65%;
+        padding: 0 70px;
+        margin-top: 100px;
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
+      .carousel-caption .lead,
+      .carousel-caption .btn {
+        font-size: 18px;
+      }
+
+      .marketing .span4 + .span4 {
+        margin-top: 40px;
+      }
+
+      .featurette-heading {
+        font-size: 30px;
+      }
+      .featurette .lead {
+        font-size: 18px;
+        line-height: 1.5;
+      }
+
+    }

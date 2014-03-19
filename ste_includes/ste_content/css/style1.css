@@ -1,0 +1,255 @@
+#header{
+
+height:900px;
+width: 760px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+}
+  
+   #title{
+   border :1px solid blue;
+   height: 110px;
+   width: 760px;
+  float:left;
+-moz-border-radius: 10px;
+ 	-webkit-border-radius: 10px;
+   }
+   
+   
+  #under_title{
+  margin-top:1px;
+  float:left;
+   border :1px solid black;
+   width:760px;
+   height:782px;
+   -moz-border-radius: 10px;
+ 	-webkit-border-radius: 10px;
+	margin_left:0px;
+	margin-top:6px;
+   }
+   
+   #right_content{
+   float:left;
+
+     height: 700px; 
+	 width:600px;
+	 margin-left:2px;
+	
+   }
+   
+   #under_title_left{
+    border: 1px solid teal;
+      float:left;	
+      width: 150px; 
+       height: 780px;  
+  }
+   
+
+    #under_under_title{
+	float:left;
+
+	width:604px;
+	height:40px;
+	}
+   
+  #f{
+  margin-left:4px;
+  }
+ img#refresh{
+	float:left;
+	margin-top:14px;
+	margin-left:4px;
+	cursor:pointer;
+}
+
+	#a{
+	display:none;
+	}
+	
+	#head_text{
+    height:65px;
+	width: 760px;
+	}
+	
+	#c{
+	float:right;
+	text-decoration:none;
+	float:right;
+    margin-top:0px;
+	}
+	
+	#ccc{
+	margin-left:9px;
+  margin-top: 19px;
+	}
+	
+	 #aa{
+	  -moz-border-radius: 10px;
+ 	-webkit-border-radius: 10px;
+	 width:760px;
+	 height:37px;
+	 }
+	 
+	 #title1{
+	  height:65px;
+	width: 378px;
+	 float:left;
+	 	font-family:Arial;
+	 }
+	 
+	 
+	 #link1{
+
+	 float:right;
+	  height:65px;
+	width: 376px;
+	 }
+	 #ccc{
+	 
+	 
+	 }
+	 #title2{
+	 float:left;
+
+	  height:17px;
+	  width:379px;
+	  margin-top:0px;
+	 	 	font-family:Georgia;
+	 }
+	 
+	 #link2{
+	  float:right;
+	 
+	  height:37px;
+	  width:376px;
+	 
+	 }
+	 
+	 #p{
+	 margin-top: 0px;
+	 margin-left:74px;
+	 }
+	 #n{
+	 text-decoration:none;
+	 float:right;
+	 margin-right:7px;
+	 
+	 }
+	 #sign_header{
+	 border:9px solid teal;
+	 width:400px;
+	 height:780px;
+	 margin-left:9px;
+	 margin-top:9px;
+	  -moz-border-radius:14px;
+	-webkit-border-radius:14px;
+	 
+	 }
+	 
+	 #header1{
+	 margin-top:0px;
+	 border:px solid teal;
+	 background:#745674;
+	 width:398px;
+	 height:93px;
+	 }
+	 #header2{
+	 float:left;
+	 border:1px solid white;
+	 width:398px;
+	 height:35px;
+	 
+	 }
+	 #h{
+	 float:left;
+	 width:200px;
+	 height:34px;
+	 }
+	 #name{
+	 margin-top:0px;
+	 margin-left:9px;
+	 
+	 }
+	 #fullname1{
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	 width:150px;
+	 height:30px;
+	 }
+	  #fullname2{
+	  -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	 width:150px;
+	 height:30px;
+	 }
+	 #firstname,#password,#email{
+	 -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	 width:195px;
+	 height:30px;
+	 border:2px bold teal;
+	 margin-left:10px;
+	
+	 }
+	 #firstname:hover{
+	 opacity:.5;
+	 
+	 }
+	 #cap_header{
+	  -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	width:160px;
+	height:80px;
+	border: 1px solid black;
+	float:left;
+	 margin-left:11px;
+	 }
+	 
+	 #submit{
+	  -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	 width:140px;
+	 height:35px;
+	 background:green;
+	 text-color:black;
+	 font-size:17px;
+	 margin-top:10px;
+	 margin-left:11px;
+	 
+	 }
+	 #submit:hover{
+	 opacity:.5;
+	 
+	 }
+	 #sign{
+	 margin-left:8px;
+	  }
+	  
+	  #birth{
+	   -moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	  }
+	  #usern{
+	  float:right;
+	  width:175px;
+	  height:32px;
+	  text-color:teal;
+	
+      font-size:20px;
+	  }
+	  #k{
+	 width:122px;
+	 height:31px;
+	  float:left;
+	  border: 1px solid red;
+	  }
+	  
+	   #m{
+	 width:266px;
+	 height:31px;
+	  float:right;
+	  border: 1px solid red;
+	  }
+	  #jkl{
+	  display:no
+	  }

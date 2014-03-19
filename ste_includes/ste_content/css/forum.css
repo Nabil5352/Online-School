@@ -1,0 +1,130 @@
+body{
+background-color: #49566A;
+margin: 0 auto;
+padding-left: 80px;
+padding-right: 80px;
+}
+
+.title{
+margin-top: 20px;
+}
+
+.Welcometext{
+color: BLACK;
+}
+
+.header{
+background-color: #1C1C1C;
+border: 1px solid BLACK;
+width:100%;
+min-width: 900px;
+height: 100px;
+}
+
+.SubHeader1{
+background-color: #dfe3e4;
+border: 1px solid BLACK;
+width:100%;
+min-width: 900px;
+height:40px;
+padding-top: 15px;
+}
+
+
+.SubHeader2{
+background-color: #dfe3e4;
+border: 1px solid BLACK;
+width:100%;
+min-width: 900px;
+height:72px;
+padding-top: 6px;
+margin-top: 15px;
+}
+
+.InsideSubHeader2{
+padding-left: 10px;
+}
+
+.logUsr{
+padding-top: 10px;
+padding-left: 6px;
+}
+
+.Inside{
+background-color: #dfe3e4;
+border: 1px solid BLACK;
+width:100%;
+min-width: 900px;
+height:50px;
+padding-top: 8px;
+margin-top: 15px;
+}
+
+.body{
+padding-top: 8px;
+margin-top: 100px;
+}
+
+.table1{
+background-color: #162226;
+border: 1px solid BLACK;
+width:100%;
+min-width: 900px;
+padding-top: 8px;
+margin-top: 15px;
+}
+
+.table2{
+background-color: #162226;
+border: 1px solid BLACK;
+width:100%;
+min-width: 900px;
+padding-top: 8px;
+margin-top: 15px;
+}
+
+.tablehead{
+background-color: #1C1C1C;
+}
+
+.tablehead2{
+background-color: #dfe3e4;
+}
+
+.window0{
+background-color: #dfe3e4;
+padding: 10px 15px;
+}
+
+.window{
+background-color: #eeefef;
+padding: 10px 15px;
+}
+
+.windowIcon{
+width: 50px;
+height: 50px;
+margin: 5px 5px 5px 15px;
+}
+
+.headerText{
+color: #eeefef;
+}
+
+.headerIcon{
+width: 25px;
+height: 25px;
+margin: 0px 5px 5px 15px;
+}
+
+.header_image{
+width: 300px;
+height: 60px;
+}
+
+.footer{
+position:absolute;
+width:88%;
+min-width: 900px;
+}
+}
